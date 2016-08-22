@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <string name="app_name">GlucoGuide Medication reminder</string>
+    <string name="app_name">GlucoGuide daily tipr</string>
     <string name="intro_message">
         <![CDATA[
 
