@@ -241,7 +241,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">BasicNotifications</string>
+    <string name="app_name">GlucoGuide daily tipr</string>
     <string name="description">
         Tap the button below to send a notification.\n\nThe notification\'s icon will immediately
         appear in the notification bar. Drag the notification bar open to see the full
@@ -260,8 +260,7 @@
     </string>
     <string name="intro_message">
         
-        
-            
+
             This sample demonstrates how to display events in the system\'s notification bar. The
             NotificationCompat API is used for compatibility with older devices, running Android
             2.2 (Froyo) or newer.

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_62c43601a3c7335653bb5e977be45acb674d1714\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8043d911d69627e63be5814cf524d92e7c6f7b82">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bde5598404b0f6c3600785f66ec0930aa99289e1\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9e9a3e41ac0e04b5b018c16257cb81ffe4dac7a9">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1a9f5b752e990cd822fcaafbc48f2cacb674ccde\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_2866d4f8f13b4b25d56e6287a41f4a01a81865e8\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_54d231cf87728d03f082867c00e10dbabdc19b9e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-24.1.1_79addd88e9bf76b079c1aae14e7ffb2c5e9e5271\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_ee7c25f5c62b90edcde8c859f3e262e413b57bd3\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_b665895900f364d8132f31020d54ae5b7ad02363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\owner\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_04db4eaa557cd4d9b9d029319f9fe893a4eb70be\classes.dex" />
+    </item>
+    <item
+        jar="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Sn@k3\BasicNotifications1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_5d69a4730a9cd3f3d96406e4036b5315661324bc\classes.dex" />
+    </item>
+
+</items>
